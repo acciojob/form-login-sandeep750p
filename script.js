@@ -1,4 +1,8 @@
+ var fn= document.getElementById('fname').value
+	var ln= document.getElementById('lname').value
 function getFormvalue() {
-    //Write your code here
+   
+	alert (fn+ ln)
+	
 
 }
